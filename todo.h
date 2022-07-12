@@ -9,7 +9,7 @@ extern int createTodoTask(char *todoTask);
 
 extern int deletedTodoTask(int id);
 
-// void readTodoTasks();
-void loadTodoTasks();
+// void readTodoTasks(void);
+void loadTodoTasks(void);
 
 #endif // !TODO_H

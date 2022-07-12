@@ -3,6 +3,8 @@
 
 int main(int argc, char const *argv[])
 {
-    printf("Hello Todo\n");
+    loadTodoTasks();
+
+    printf("Hello Todo");
     return 0;
 }
